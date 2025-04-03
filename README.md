@@ -92,7 +92,7 @@ step-wise execution
 
   Logic:
     •	If abbreviation is an exact match:
-    •	CFO ↔️ Chief Financial Officer → score = 0.85
+    •	CFO >> Chief Financial Officer → score = 0.85
     •	If abbreviation is partially matching: Compute overlap ratio:
     matchedinitials/expectedinitialsmatched_initials / expected_initials 
     Then scale:  score=0.6+0.25×overlapratioscore = 0.6 + 0.25 × overlap_ratio
