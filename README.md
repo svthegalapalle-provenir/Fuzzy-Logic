@@ -121,10 +121,10 @@ ________________________________________
 
 This Approach handles :
 
-Spelling variations
-Initials
-Abbreviations (CFO etc.)
-Name reordering
-Extra/missing tokens
-Fuzzy company name matching
+Spelling variations,
+Initials,
+Abbreviations (CFO etc.),
+Name reordering,
+Extra/missing tokens,
+Fuzzy company name matching.
 Weighted scoring
